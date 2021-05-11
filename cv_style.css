@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif;
+}
+
+#name{
+    font-size: 300%;
+    text-align: center;
+    font-weight: bold;
+}
+
+#phone_email{
+    font-size: 120%;
+    text-align: center;
+    margin: 25px;
+}
+
+hr{
+    height: 5px;
+    background-color: black;
+}
+
+.left{ 
+    width: 60%;
+    font-size: 120%;
+    margin: 20px;
+    margin-left: 0; 
+}
+
+.right{
+    float: right;
+    margin-right: 40px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 120%;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 100px;
+    font-weight: bold;
+}
